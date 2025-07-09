@@ -1,12 +1,13 @@
 import './/styles/theme.css';
 import './/styles/global.css';
+import { Heading } from './components/Heading';
 
 export function App() {
  console.log('oi');
   return (
   <>
-  <h1>ola mundo</h1>
-  <p>nando estudando bla bla</p>
+  <Heading/>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi corporis adipisci praesentium at totam delectus, perspiciatis nihil fugiat accusantium explicabo repellendus laudantium reiciendis eos, assumenda necessitatibus! Vitae corrupti doloremque quae?</p>
   </>
   )
 }
