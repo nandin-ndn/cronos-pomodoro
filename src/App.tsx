@@ -3,7 +3,7 @@ import './/styles/global.css';
 import { Heading } from './components/Heading';
 
 export function App() {
- console.log('oi');
+ 
   return (
   <>
   <Heading attr={123} attr2= 'string'>Ola mundo 2</Heading>
