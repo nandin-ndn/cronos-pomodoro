@@ -1,0 +1,11 @@
+
+.icon-button {
+  background: var(--primary);
+  color: var(--text-over-primary-dark);
+  font-size: 1.6rem;
+  padding: 1.2rem;
+  border: none;
+  border-radius: 0.8rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
